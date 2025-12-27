@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="Description of the image" height="200">
+
 # PHP CRUD - Task Manager
 
 A simple PHP CRUD application for learning basic PHP concepts.
